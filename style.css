@@ -30,7 +30,7 @@ body{
 .container .picture img{
     width: 100px;
     border-radius: 50%;
-    border: 5px solid rgb(252, 1, 1);
+    border: 5px solid rgb(0, 0, 0);
 }
 
 .container h1{
